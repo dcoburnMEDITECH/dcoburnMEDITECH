@@ -1,0 +1,9 @@
+- 👋 Hi, I’m David Coburn
+- 👀 I’m interested in Python, C/C++, Conan, CMake...
+- 🌱 I’m currently learning Conan, CMake...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... dcoburn@meditech.com
+<!---
+dcoburnMEDITECH/dcoburnMEDITECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
